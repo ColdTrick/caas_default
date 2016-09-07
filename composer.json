@@ -1,0 +1,10 @@
+{
+	"type": "project",
+	"name": "coldtrick/caas_default",
+	"description": "Default installation for Caas",
+	"prefer-stable": true,
+	"minimum-stability": "dev",
+	"require": {
+		"elgg/elgg": "~2.1.0"
+	}
+}
