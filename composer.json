@@ -6,7 +6,10 @@
 	"prefer-stable": true,
 	"minimum-stability": "dev",
 	"require": {
-		"elgg/elgg": "~2.1.0"
+		"elgg/elgg": "~2.2.0"
+	},
+	"conflict": {
+		"elgg/elgg": "2.2.2"
 	},
 	"scripts": {
 		"post-install-cmd": "\\Elgg\\Composer\\PostInstall::execute",
