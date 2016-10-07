@@ -7,5 +7,9 @@
 	"minimum-stability": "dev",
 	"require": {
 		"elgg/elgg": "~2.1.0"
+	},
+	"scripts": {
+		"post-install-cmd": "\\Elgg\\Composer\\PostInstall::execute",
+		"post-package-update": "\\Elgg\\Composer\\PostUpdate::execute"
 	}
 }
