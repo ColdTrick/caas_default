@@ -2,6 +2,7 @@
 	"type": "project",
 	"name": "coldtrick/caas_default",
 	"description": "Default installation for Caas",
+	"license": "MIT",
 	"prefer-stable": true,
 	"minimum-stability": "dev",
 	"require": {
