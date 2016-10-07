@@ -17,9 +17,5 @@
 	},
 	"conflict": {
 		"elgg/elgg": "2.2.2"
-	},
-	"scripts": {
-		"post-install-cmd": "\\Elgg\\Composer\\PostInstall::execute",
-		"post-package-update": "\\Elgg\\Composer\\PostUpdate::execute"
 	}
 }
