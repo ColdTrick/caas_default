@@ -6,7 +6,7 @@
 	"prefer-stable": true,
 	"minimum-stability": "dev",
 	"require": {
-		"elgg/elgg": "~2.2.0",
+		"elgg/elgg": "~2.3.0",
 		
 		"coldtrick/advanced_statistics": "~2.0.0",
 		"coldtrick/ckeditor_extended": "~2.1.0",
@@ -14,8 +14,5 @@
 		"coldtrick/profile_manager": "~11.0.0",
 		"coldtrick/security_tools": "~3.0.0",
 		"coldtrick/translation_editor": "~5.2.0"
-	},
-	"conflict": {
-		"elgg/elgg": "2.2.2"
 	}
 }
