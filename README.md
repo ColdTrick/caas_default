@@ -22,12 +22,12 @@ A plugin can be added to this project if it meets certain requirements.
 
 ### Minor release (1.x)
 
-- Updates to Elgg of plugins with update scripts (these require an action by the site admin)
-- Updates to Egg of plugins with changes for the users
+- Updates to Elgg or plugins with update scripts (these require an action by the site admin)
+- Updates to Elgg or plugins with changes for the users
 
 ### Patch release (1.0.x)
 
-- Updates to Elgg or plugin without noteworthy changes for the users
+- Updates to Elgg or plugins without noteworthy changes for the users
 
 [semver]: http://semver.org/ "Semantic Versioning"
 [composer]: https://getcomposer.org "Composer"
