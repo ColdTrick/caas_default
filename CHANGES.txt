@@ -1,6 +1,10 @@
 Version history
 ===============
 
+1.2 (2017-06-14):
+
+- changed: updated ckeditor_extended to v3.0
+
 1.1 (2017-03-22):
 
 - changed: updated profile manager to 12.0
