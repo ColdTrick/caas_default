@@ -1,6 +1,10 @@
 Version history
 ===============
 
+1.3 (2019-03-01):
+
+- changed: updated plugin versions
+
 1.2 (2017-06-14):
 
 - changed: updated ckeditor_extended to v3.0
