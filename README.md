@@ -18,7 +18,7 @@ A plugin can be added to this project if it meets certain requirements.
 
 ### Major release (x.0)
 
-- Major version update of Elgg (eg. form 2.x to 3.x)
+- Major version update of Elgg (eg. form 2.x to 3.x) including plugins
 
 ### Minor release (1.x)
 
