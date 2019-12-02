@@ -9,6 +9,7 @@
 		"elgg/elgg": "~3.2.0",
 		
 		"coldtrick/advanced_statistics": "~4.0.0",
+		"coldtrick/dataroot_browser": "~4.0.0",
 		"coldtrick/ckeditor_extended": "~4.0.0",
 		"coldtrick/html_email_handler": "~5.0.0",
 		"coldtrick/profile_manager": "~15.0.0",
